@@ -2,7 +2,7 @@
 /* Author: Evangelos Sfyris
 *
 *  Description: This program offers an interface with four commands: load, display, check, and filter.
-*  ---------------------------------------------------------------------------------------------------
+*  
 *
 *  Load takes fills a vector with a file of known spam emails, required to be sorted in alphabetical order.
 *  
