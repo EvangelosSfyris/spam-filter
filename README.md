@@ -4,9 +4,9 @@
 *  Description: This program offers an interface with four commands: load, display, check, and filter.
 *  
 *
-*  Load takes fills a vector with a file of known spam emails, required to be sorted in alphabetical order.
+*  Load takes a vector and fills it emails from a file of known spam emails; the file is required to be sorted in alphabetical order.
 *  
-*  Display simply prints out each address contained within.
+*  Display simply prints out each address contained within the vector.
 *  
 *  Check takes a single email input by user and binary searches the vector to see if that email is spam.
 *  
